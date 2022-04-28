@@ -16,6 +16,7 @@ body{
     color: var(--body-color);
     background-color: var(--background-color);
     border: 1px solid #f6f6f6;
+    background-image: url(/images/mainbg-02.svg);
 }
 
 wrapper{
